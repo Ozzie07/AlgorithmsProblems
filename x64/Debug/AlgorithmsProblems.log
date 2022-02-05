@@ -1,0 +1,19 @@
+﻿  1747.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1747.cpp(67,13): warning C4244: 'return': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\tuple(640,43): warning C4244: '=': conversion from 'const _Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=Data
+          ]
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1747.cpp(76): message : see reference to function template instantiation 'std::tuple<int &,int &> &std::tuple<int &,int &>::operator =<Data,Data,0>(const std::pair<Data,Data> &) noexcept' being compiled
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1747.cpp(76): message : see reference to function template instantiation 'std::tuple<int &,int &> &std::tuple<int &,int &>::operator =<Data,Data,0>(const std::pair<Data,Data> &) noexcept' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\tuple(641,43): warning C4244: '=': conversion from 'const _Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=Data
+          ]
+  AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Debug\AlgorithmsProblems.exe

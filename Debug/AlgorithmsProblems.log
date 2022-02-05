@@ -1,0 +1,6 @@
+﻿  12738.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\12738.cpp(48,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\12738.cpp(59,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\12738.cpp(71,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\12738.cpp(84,24): warning C4018: '<': signed/unsigned mismatch
+  AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\Debug\AlgorithmsProblems.exe

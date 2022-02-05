@@ -25,7 +25,10 @@
     <ClCompile Include="15486.cpp" />
     <ClCompile Include="1747.cpp" />
     <ClCompile Include="1780.cpp" />
+    <ClCompile Include="2042.cpp" />
+    <ClCompile Include="Chapter10_Tree.cpp" />
     <ClCompile Include="Chapter13_Geometry.cpp" />
+    <ClCompile Include="Chapter9_SegmentTree.cpp" />
     <ClCompile Include="GeometryTemplate.cpp" />
     <ClCompile Include="SparseTable.cpp" />
     <ClCompile Include="WhatisThis.cpp" />
@@ -42,7 +45,7 @@
     <ClCompile Include="3197.cpp" />
     <ClCompile Include="8111.cpp" />
     <ClCompile Include="9471.cpp" />
-    <ClCompile Include="BinaryIndexedTree.cpp" />
+    <ClCompile Include="Chapter9_BinaryIndexedTree.cpp" />
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="Chapter4_Sorting_Searching.cpp" />
     <ClCompile Include="Chapter7_FloydWarshall.cpp" />

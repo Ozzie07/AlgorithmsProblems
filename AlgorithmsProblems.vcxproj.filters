@@ -66,7 +66,7 @@
     <ClCompile Include="1790.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BinaryIndexedTree.cpp">
+    <ClCompile Include="Chapter9_BinaryIndexedTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="1845.cpp">
@@ -106,6 +106,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SparseTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter9_SegmentTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter10_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2042.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -27,6 +27,7 @@
     <ClCompile Include="1780.cpp" />
     <ClCompile Include="Chapter10_Tree.cpp" />
     <ClCompile Include="Chapter13_Geometry.cpp" />
+    <ClCompile Include="Chapter14_Trie.cpp" />
     <ClCompile Include="Chapter9_SegmentTree.cpp" />
     <ClCompile Include="GeometryTemplate.cpp" />
     <ClCompile Include="SparseTable.cpp" />
@@ -37,7 +38,6 @@
     <ClCompile Include="2056-2.cpp" />
     <ClCompile Include="2056-otherpersonCode.cpp" />
     <ClCompile Include="2056.cpp" />
-    <ClCompile Include="2749.cpp" />
     <ClCompile Include="3197-2.cpp" />
     <ClCompile Include="3197-3.cpp" />
     <ClCompile Include="3197-4.cpp" />

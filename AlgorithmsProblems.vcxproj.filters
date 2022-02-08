@@ -45,9 +45,6 @@
     <ClCompile Include="3197-4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2749.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="9471.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -112,6 +109,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Chapter10_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter14_Trie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

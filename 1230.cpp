@@ -109,18 +109,19 @@ int main() {
 	//\n faster than endl. endl makes buffer flush explicitly.
 	Solution solution;
 	solution.GetInput();
-	if (solution.IsPossible())
-	{
+	solution.LCS();
+	//if (solution.IsPossible())
+	//{
 	//	cout << "-----------RES-----------" << endl;
-		cout << solution.GetRes() << endl;
+	//	cout << solution.GetRes() << endl;
 	//	cout << "------------------------" << endl;
-	}
-	else
-	{
+	//}
+	//else
+	//{
 	//	cout << "-----------RES-----------" << endl;
-		cout << -1 << endl;
+	//	cout << -1 << endl;
 	//	cout << "------------------------" << endl;
-	}
-//	solution.LCS();
+	//}
+	//solution.LCS();
 	return 0;
 }

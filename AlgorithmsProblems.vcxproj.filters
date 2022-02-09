@@ -114,5 +114,14 @@
     <ClCompile Include="Chapter14_Trie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7620.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1230.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1230-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

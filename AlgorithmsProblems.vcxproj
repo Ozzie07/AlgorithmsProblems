@@ -20,19 +20,27 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10990.cpp" />
+    <ClCompile Include="1104.cpp" />
     <ClCompile Include="12015.cpp" />
     <ClCompile Include="1230-1.cpp" />
     <ClCompile Include="1230.cpp" />
     <ClCompile Include="12738.cpp" />
+    <ClCompile Include="1305.cpp" />
+    <ClCompile Include="1377.cpp" />
+    <ClCompile Include="1495.cpp" />
     <ClCompile Include="15486.cpp" />
     <ClCompile Include="1747.cpp" />
     <ClCompile Include="1780.cpp" />
+    <ClCompile Include="2250.cpp" />
+    <ClCompile Include="4375.cpp" />
     <ClCompile Include="7620.cpp" />
     <ClCompile Include="Chapter10_Tree.cpp" />
     <ClCompile Include="Chapter13_Geometry.cpp" />
     <ClCompile Include="Chapter14_Trie.cpp" />
     <ClCompile Include="Chapter9_SegmentTree.cpp" />
     <ClCompile Include="GeometryTemplate.cpp" />
+    <ClCompile Include="KMPAlgorithm.cpp" />
+    <ClCompile Include="3085.cpp" />
     <ClCompile Include="SparseTable.cpp" />
     <ClCompile Include="WhatisThis.cpp" />
     <ClCompile Include="1790.cpp" />

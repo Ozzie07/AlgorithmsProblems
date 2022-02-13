@@ -8,7 +8,7 @@ class Graph
 	int distance[1001] = {};
 	bool visited[1001] = {false,};
 	int lastVisited[1001] = { 0, };
-	vector<pair<int, int>> adjList[1001]; //adjList[_SOURCE] = {_DESTINATION, _WEIGHT}
+	vector<pair<int, int>> adjList[100001]; //adjList[_SOURCE] = {_DESTINATION, _WEIGHT}
 	int start, destination;
 
 public:
@@ -45,7 +45,7 @@ public:
 				if (distance[i.first] > distance[current] + i.second)
 				{
 					distance[i.first] = distance[current] + i.second; //값이 바뀌었다? Update가 필요한 시점이다~
-					lastVisited[i.first] = current;
+					//lastVisited[i.first] = current;
 					pq.push({ -distance[i.first], i.first });
 				}
 			}
@@ -92,7 +92,7 @@ public:
 	{
 		getInput();
 		Find();
-		History();
+		//History();
 	}
 };
 

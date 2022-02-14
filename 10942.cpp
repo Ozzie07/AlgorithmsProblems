@@ -10,6 +10,7 @@ class Solution
 	bool processed[2001][2001] = { false, };
 
 public:
+
 	void GetInput()
 	{
 		cin >> N;

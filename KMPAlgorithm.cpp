@@ -9,21 +9,18 @@
 //
 //	for (size_t i = 1; i < patternSize; i++)
 //	{
-//		cout << "pattern[" << i << "] : " << pattern[i] << "  pattern[" << j << "] : " << pattern[j] << "  table[" << i << "] : " << table[i] << endl;
+//		while (j > 0 && pattern[i] != pattern[j])
 //		{
-//			int time = 0;
-//			while (j > 0 && pattern[i] != pattern[j])
-//			{
-//				time++;
-//				j = table[j - 1];
-//			}
-//			cout << "Time : " << time << endl;
+//			cout << "j -1 : " << j - 1 << endl;
+//			j = 0;
 //		}
 //		
 //		if (pattern[i] == pattern[j]) //접두사와 접미사를 늘려가며 비교..
 //		{
 //			table[i] = ++j;
 //		}
+//		cout << "pattern[" << i << "] : " << pattern[i] << "  pattern[" << j << "] : " << pattern[j] << "  table[" << i << "] : " << table[i] << endl;
+//
 //	}
 //	//cout << "pattern : " << table[patternSize - 1] << endl;
 //	return table;
@@ -41,7 +38,6 @@
 //		{
 //			j = table[j - 1];
 //		}
-//
 //		if (parent[i] == pattern[j])
 //		{
 //			if (j == patternSize - 1)
@@ -54,6 +50,7 @@
 //				j++;
 //			}
 //		}
+//		//cout << "parent[" << i << "] : " << parent[i] << "  pattern[" << j << "] : " << pattern[j] << "  table[" << i << "] : " << table[i] << endl;
 //	}
 //}
 //
@@ -65,7 +62,7 @@
 //	//cin.tie(0);
 //	//\n faster than endl. endl makes buffer flush explicitly.
 //	string parent = "ababacabacaabacaaba";
-//	string pattern = "abacaaba";
+//	string pattern = "abacabab";
 //	KMP(parent, pattern);
 //	//while (true)
 //	//{

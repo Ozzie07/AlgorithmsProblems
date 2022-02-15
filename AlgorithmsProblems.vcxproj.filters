@@ -141,7 +141,16 @@
     <ClCompile Include="3085.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1701.cpp">
+    <ClCompile Include="9250.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2294.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15649.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1037.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

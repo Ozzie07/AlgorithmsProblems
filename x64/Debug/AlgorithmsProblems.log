@@ -1,3 +1,4 @@
-﻿  1305.cpp
-C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1305.cpp(24,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+﻿  1701.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1701.cpp(16,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1701.cpp(41,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Debug\AlgorithmsProblems.exe

@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1037.cpp" />
     <ClCompile Include="10990.cpp" />
     <ClCompile Include="1104.cpp" />
     <ClCompile Include="12015.cpp" />
@@ -43,6 +42,7 @@
     <ClCompile Include="GeometryTemplate.cpp" />
     <ClCompile Include="KMPAlgorithm.cpp" />
     <ClCompile Include="3085.cpp" />
+    <ClCompile Include="SegmentTreePractice.cpp" />
     <ClCompile Include="SparseTable.cpp" />
     <ClCompile Include="WhatisThis.cpp" />
     <ClCompile Include="1790.cpp" />

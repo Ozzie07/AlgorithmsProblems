@@ -150,7 +150,7 @@
     <ClCompile Include="15649.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1037.cpp">
+    <ClCompile Include="SegmentTreePractice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

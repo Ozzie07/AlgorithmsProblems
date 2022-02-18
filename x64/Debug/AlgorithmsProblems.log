@@ -1,2 +1,4 @@
-﻿  SegmentTreePractice.cpp
+﻿  4354.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\4354.cpp(6,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\4354.cpp(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Debug\AlgorithmsProblems.exe

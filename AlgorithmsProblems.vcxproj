@@ -32,7 +32,8 @@
     <ClCompile Include="1780.cpp" />
     <ClCompile Include="2250.cpp" />
     <ClCompile Include="2294.cpp" />
-    <ClCompile Include="4375.cpp" />
+    <ClCompile Include="4354.cpp" />
+    <ClCompile Include="5337.cpp" />
     <ClCompile Include="7620.cpp" />
     <ClCompile Include="9250.cpp" />
     <ClCompile Include="Chapter10_Tree.cpp" />
@@ -43,6 +44,7 @@
     <ClCompile Include="KMPAlgorithm.cpp" />
     <ClCompile Include="3085.cpp" />
     <ClCompile Include="SegmentTreePractice.cpp" />
+    <ClCompile Include="Sort.cpp" />
     <ClCompile Include="SparseTable.cpp" />
     <ClCompile Include="WhatisThis.cpp" />
     <ClCompile Include="1790.cpp" />

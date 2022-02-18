@@ -135,9 +135,6 @@
     <ClCompile Include="2250.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4375.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="3085.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -151,6 +148,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SegmentTreePractice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5337.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4354.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

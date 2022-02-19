@@ -35,6 +35,7 @@
     <ClCompile Include="2401.cpp" />
     <ClCompile Include="5337.cpp" />
     <ClCompile Include="7620.cpp" />
+    <ClCompile Include="9250-1.cpp" />
     <ClCompile Include="9250.cpp" />
     <ClCompile Include="Chapter10_Tree.cpp" />
     <ClCompile Include="Chapter13_Geometry.cpp" />

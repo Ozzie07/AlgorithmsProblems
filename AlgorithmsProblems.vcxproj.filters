@@ -159,5 +159,8 @@
     <ClCompile Include="2401.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9250-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

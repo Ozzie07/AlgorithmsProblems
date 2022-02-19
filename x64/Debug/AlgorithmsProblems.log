@@ -1,27 +1,2 @@
-﻿  2401.cpp
-C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\2401.cpp(126,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\2401.cpp(147,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\2401.cpp(148,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(190,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
-          with
-          [
-              _Ty1=int
-          ]
-C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\2401.cpp(165): message : see reference to function template instantiation 'std::pair<int,int>::pair<size_t,size_t&,0>(_Other1 &&,_Other2) noexcept' being compiled
-          with
-          [
-              _Other1=size_t,
-              _Other2=size_t &
-          ]
-C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\2401.cpp(165): message : see reference to function template instantiation 'std::pair<int,int>::pair<size_t,size_t&,0>(_Other1 &&,_Other2) noexcept' being compiled
-          with
-          [
-              _Other1=size_t,
-              _Other2=size_t &
-          ]
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(190,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
-          with
-          [
-              _Ty2=int
-          ]
+﻿  9250-1.cpp
   AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Debug\AlgorithmsProblems.exe

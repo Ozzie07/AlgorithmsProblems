@@ -1,2 +1,8 @@
-﻿  9250-1.cpp
+﻿  3085.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\3085.cpp(100,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\3085.cpp(103,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\3085.cpp(123,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\3085.cpp(126,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\3085.cpp(190,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\3085.cpp(191,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Debug\AlgorithmsProblems.exe

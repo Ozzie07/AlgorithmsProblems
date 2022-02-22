@@ -162,23 +162,23 @@
     <ClCompile Include="6_1_RecursiveSum.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
-    <ClCompile Include="PICNIC.cpp">
+    <ClCompile Include="6-2PICNIC.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
-    <ClCompile Include="BOGGLE.cpp">
+    <ClCompile Include="6-1BOGGLE.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
     <ClCompile Include="6_2_n_select_m.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
-    <ClCompile Include="PICNIC_Solution.cpp">
+    <ClCompile Include="6-2PICNIC_Solution.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
     <ClCompile Include="17427.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5338.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="6-3BOARDCOVER.cpp">
+      <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

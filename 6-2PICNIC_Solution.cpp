@@ -51,7 +51,7 @@
 //		//선택된 학생과 짝지을 학생을 결정
 //		for (int pairWith = firstFree + 1; pairWith < n; ++pairWith)
 //		{
-//			//찾았으면?
+//			//순회 중 찾았으면?
 //			if (!taken[pairWith] && areFriends[firstFree][pairWith])
 //			{
 //				//그 두 녀석을 pair로 만들고...

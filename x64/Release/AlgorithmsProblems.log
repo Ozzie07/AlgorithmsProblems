@@ -1,20 +1,66 @@
 ﻿  10990.cpp
+  1104.cpp
   12015.cpp
+  1230-1.cpp
+  1230.cpp
   12738.cpp
+  1377.cpp
+  15486.cpp
+  15649.cpp
+  17427.cpp
   1747.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1747.cpp(32,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1747.cpp(73,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\1747.cpp(85,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   1780.cpp
-  2042.cpp
+  2250.cpp
+  2294.cpp
+  2401.cpp
+  5337.cpp
+  6064.cpp
+  6_1_RecursiveSum.cpp
+  6_2_n_select_m.cpp
+  7620.cpp
+  Compiling...
+  6-3BOARDCOVER.cpp
+  6-1BOGGLE.cpp
   Chapter10_Tree.cpp
   Chapter13_Geometry.cpp
+  Chapter14_Trie.cpp
   Chapter9_SegmentTree.cpp
   GeometryTemplate.cpp
+  KMPAlgorithm.cpp
+  6-2PICNIC.cpp
+  6-2PICNIC_Solution.cpp
+  SegmentTreePractice.cpp
+  Sort.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\Sort.cpp(12,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\Sort.cpp(22,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   SparseTable.cpp
+  WhatisThis.cpp
+  1790.cpp
+  1845.cpp
+  1931.cpp
+  2056-2.cpp
+  2056-otherpersonCode.cpp
+  2056.cpp
+  Compiling...
+  3197-2.cpp
+  3197-3.cpp
+  3197-4.cpp
+  3197.cpp
+  8111.cpp
   9471.cpp
   Chapter9_BinaryIndexedTree.cpp
   BinarySearch.cpp
+  Chapter4_Sorting_Searching.cpp
+  Chapter7_FloydWarshall.cpp
   Chapter7_Graph.cpp
+  RandomNumberGenerator.h
+  test.cpp
+  timer.h
   Generating code
-  Previous IPDB and IOBJ mismatch, fall back to full compilation.
-  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Compiler switch has changed, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Release\AlgorithmsProblems.exe

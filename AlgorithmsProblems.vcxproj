@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="10757.cpp" />
     <ClCompile Include="10990.cpp" />
     <ClCompile Include="1104.cpp" />
     <ClCompile Include="12015.cpp" />
@@ -26,15 +27,16 @@
     <ClCompile Include="1230.cpp" />
     <ClCompile Include="12738.cpp" />
     <ClCompile Include="1377.cpp" />
+    <ClCompile Include="14500.cpp" />
     <ClCompile Include="15486.cpp" />
     <ClCompile Include="15649.cpp" />
     <ClCompile Include="17427.cpp" />
-    <ClCompile Include="1747.cpp" />
     <ClCompile Include="1780.cpp" />
     <ClCompile Include="2250.cpp" />
     <ClCompile Include="2294.cpp" />
     <ClCompile Include="2401.cpp" />
     <ClCompile Include="5337.cpp" />
+    <ClCompile Include="6-3BOARDCOVER_Solution.cpp" />
     <ClCompile Include="6064.cpp" />
     <ClCompile Include="6_1_RecursiveSum.cpp" />
     <ClCompile Include="6_2_n_select_m.cpp" />

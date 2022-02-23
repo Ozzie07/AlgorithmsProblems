@@ -102,9 +102,6 @@
     <ClCompile Include="10990.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1747.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="SparseTable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -179,6 +176,15 @@
     </ClCompile>
     <ClCompile Include="6-3BOARDCOVER.cpp">
       <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="14500.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3BOARDCOVER_Solution.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="10757.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

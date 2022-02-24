@@ -162,7 +162,7 @@
     <ClCompile Include="6-2PICNIC.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
-    <ClCompile Include="6-1BOGGLE.cpp">
+    <ClCompile Include="6-1_BOGGLE.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
     <ClCompile Include="6_2_n_select_m.cpp">
@@ -182,6 +182,15 @@
     </ClCompile>
     <ClCompile Include="6-3BOARDCOVER_Solution.cpp">
       <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="6_7_TSP.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="10972.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="10172.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

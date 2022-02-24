@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="10172.cpp" />
+    <ClCompile Include="10972.cpp" />
     <ClCompile Include="10990.cpp" />
     <ClCompile Include="1104.cpp" />
     <ClCompile Include="12015.cpp" />
@@ -39,9 +41,10 @@
     <ClCompile Include="6064.cpp" />
     <ClCompile Include="6_1_RecursiveSum.cpp" />
     <ClCompile Include="6_2_n_select_m.cpp" />
+    <ClCompile Include="6_7_TSP.cpp" />
     <ClCompile Include="7620.cpp" />
     <ClCompile Include="6-3BOARDCOVER.cpp" />
-    <ClCompile Include="6-1BOGGLE.cpp" />
+    <ClCompile Include="6-1_BOGGLE.cpp" />
     <ClCompile Include="Chapter10_Tree.cpp" />
     <ClCompile Include="Chapter13_Geometry.cpp" />
     <ClCompile Include="Chapter14_Trie.cpp" />

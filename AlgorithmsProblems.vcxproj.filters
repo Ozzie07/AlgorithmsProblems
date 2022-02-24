@@ -183,8 +183,5 @@
     <ClCompile Include="6-3BOARDCOVER_Solution.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
-    <ClCompile Include="10757.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

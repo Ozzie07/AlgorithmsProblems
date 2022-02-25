@@ -189,8 +189,8 @@
     <ClCompile Include="10972.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="10172.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="6_4_CLOCKSYNC.cpp">
+      <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

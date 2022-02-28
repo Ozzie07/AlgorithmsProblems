@@ -127,17 +127,21 @@
 //		numOfButtonPush -= numOfClick;
 //	}
 //
+//	int buttonCall[10] = { 0, };
+//
 //	void FindMinimum(int buttonNum)
 //	{
-//		DEBUG++;
-//		if (buttonNum == 10)
-//			return;
-//
+//		
+//		/*if(buttonNum == 9)
+//			DEBUG++;*/
 //		if (IsAllTwelve())
 //		{
 //			minimum = min(minimum, numOfButtonPush);
 //			return;
 //		}
+//
+//		if (buttonNum == 10)
+//			return;
 //
 //		for (int i = 0; i <= 3; i++)
 //		{
@@ -145,6 +149,15 @@
 //			FindMinimum(buttonNum + 1);
 //			UnPushButton(Button[buttonNum], i);
 //		}
+//	}
+//
+//	void ShowNumOfButtonCall()
+//	{
+//		for (size_t i = 0; i < 10; i++)
+//		{
+//			cout << buttonCall[i] << ' ';
+//		}
+//		cout << endl;
 //	}
 //
 //public:
@@ -161,7 +174,6 @@
 //			cout << minimum << '\n';
 //		}
 //	}
-//
 //};
 //
 //int main() {

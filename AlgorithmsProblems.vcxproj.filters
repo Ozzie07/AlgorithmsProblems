@@ -192,5 +192,11 @@
     <ClCompile Include="6_4_CLOCKSYNC.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
+    <ClCompile Include="7_3QuadTree.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="7_4_FENCE.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

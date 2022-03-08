@@ -47,11 +47,14 @@
     <ClCompile Include="6-1_BOGGLE.cpp" />
     <ClCompile Include="7_3QuadTree.cpp" />
     <ClCompile Include="7_4_FENCE.cpp" />
+    <ClCompile Include="8_1_JUMPGAME.cpp" />
     <ClCompile Include="Chapter10_Tree.cpp" />
     <ClCompile Include="Chapter13_Geometry.cpp" />
     <ClCompile Include="Chapter14_Trie.cpp" />
     <ClCompile Include="Chapter9_SegmentTree.cpp" />
+    <ClCompile Include="7_6FANMEETING.cpp" />
     <ClCompile Include="GeometryTemplate.cpp" />
+    <ClCompile Include="InputMaker.cpp" />
     <ClCompile Include="KMPAlgorithm.cpp" />
     <ClCompile Include="6-2PICNIC.cpp" />
     <ClCompile Include="6-2PICNIC_Solution.cpp" />

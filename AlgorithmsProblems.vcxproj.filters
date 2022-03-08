@@ -198,5 +198,14 @@
     <ClCompile Include="7_4_FENCE.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
+    <ClCompile Include="7_6FANMEETING.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="8_1_JUMPGAME.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="InputMaker.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

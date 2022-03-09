@@ -1,2 +1,3 @@
-﻿  8_1_JUMPGAME.cpp
+﻿  8_2_WILDCARD.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\8_2_WILDCARD.cpp(168): warning C4715: 'Solution::PatternMatching': not all control paths return a value
   AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Debug\AlgorithmsProblems.exe

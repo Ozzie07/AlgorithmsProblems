@@ -210,5 +210,11 @@
     <ClCompile Include="8_2_WILDCARD.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
+    <ClCompile Include="8_2_WILDCARD_2.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="8_4_TRIANGLEPATH.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

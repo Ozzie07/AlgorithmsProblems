@@ -56,12 +56,14 @@
     <ClCompile Include="7_6FANMEETING.cpp" />
     <ClCompile Include="GeometryTemplate.cpp" />
     <ClCompile Include="InputMaker.cpp" />
+    <ClCompile Include="8_2_WILDCARD_2.cpp" />
     <ClCompile Include="KMPAlgorithm.cpp" />
     <ClCompile Include="6-2PICNIC.cpp" />
     <ClCompile Include="6-2PICNIC_Solution.cpp" />
     <ClCompile Include="SegmentTreePractice.cpp" />
     <ClCompile Include="Sort.cpp" />
     <ClCompile Include="SparseTable.cpp" />
+    <ClCompile Include="8_4_TRIANGLEPATH.cpp" />
     <ClCompile Include="WhatisThis.cpp" />
     <ClCompile Include="1790.cpp" />
     <ClCompile Include="1845.cpp" />

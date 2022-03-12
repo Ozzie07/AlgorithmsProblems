@@ -24,7 +24,7 @@
 //	{
 //		if (pattern[0] == '*')
 //			isFirstStar = true;
-//		if (pattern[pattern.size() - 1] == '*')
+//		if (pattern[pattern.size() - 1] == '*') //마지막 검사를 체크할 때 하면 쓸모 없는 검사를 줄일 수 있다.
 //			isLastStar = true;
 //
 //		for (size_t i = 0; i < pattern.size(); i++)
@@ -40,13 +40,13 @@
 //				}
 //				i = j - 1;
 //				subPatterns.push_back(subPattern);
-//				
 //			}
 //		}
 //	}
 //	
 //	bool isMatched(string &_word, string &_subPattern, int &_cursor)
 //	{
+//
 //
 //		if (_word.size() - _cursor < _subPattern.size())
 //		{
@@ -70,7 +70,6 @@
 //				_cursor++;
 //			}
 //		}
-//
 //		return true;
 //	}
 //
@@ -97,7 +96,7 @@
 //			if(cursor == word.size())
 //				break;
 //
-//			if (subPatterns[subPatternCursor][0] == word[cursor])
+//			if (subPatterns[subPatternCursor][0] == word[cursor] || subPatterns[subPatternCursor][0] == '?') //모든 character가 조건을 확인하는지 여부를 제대로 따졌어야했다.
 //			{
 //				if (isMatched(word, subPatterns[subPatternCursor], cursor))
 //				{
@@ -110,14 +109,13 @@
 //			}
 //		}
 //
-//		//끝
-//		if (subPatternCursor != subPatterns.size())
+//		if (subPatternCursor != subPatterns.size()) //마지막 word가 검사를 통과했는지 확인.
 //			return false;
 //
-//		if (cursor == word.size())
+//		if (cursor == word.size()) //word의 cursor가 끝에 도달했는지 확인.
 //			return true;
 //
-//		if (isFinalCheck(word, subPatterns[subPatternCursor - 1]))
+//		if (isFinalCheck(word, subPatterns[subPatternCursor - 1])) //마지막이 스타가 아닌 경우
 //		{
 //			return true;
 //		}
@@ -142,6 +140,7 @@
 //		}
 //		return true;
 //	}
+//
 //public:
 //	void Invoke()
 //	{
@@ -190,4 +189,3 @@
 //
 //	return 0;
 //}
-//

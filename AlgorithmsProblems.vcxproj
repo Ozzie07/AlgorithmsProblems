@@ -22,6 +22,7 @@
     <ClCompile Include="10972.cpp" />
     <ClCompile Include="10990.cpp" />
     <ClCompile Include="1104.cpp" />
+    <ClCompile Include="1107.cpp" />
     <ClCompile Include="12015.cpp" />
     <ClCompile Include="1230-1.cpp" />
     <ClCompile Include="1230.cpp" />
@@ -32,6 +33,7 @@
     <ClCompile Include="15649.cpp" />
     <ClCompile Include="17427.cpp" />
     <ClCompile Include="1780.cpp" />
+    <ClCompile Include="2231.cpp" />
     <ClCompile Include="2250.cpp" />
     <ClCompile Include="2294.cpp" />
     <ClCompile Include="2401.cpp" />
@@ -49,6 +51,7 @@
     <ClCompile Include="7_4_FENCE.cpp" />
     <ClCompile Include="8_1_JUMPGAME.cpp" />
     <ClCompile Include="8_2_WILDCARD.cpp" />
+    <ClCompile Include="8_4_LIS.cpp" />
     <ClCompile Include="Chapter10_Tree.cpp" />
     <ClCompile Include="Chapter13_Geometry.cpp" />
     <ClCompile Include="Chapter14_Trie.cpp" />
@@ -57,6 +60,7 @@
     <ClCompile Include="GeometryTemplate.cpp" />
     <ClCompile Include="InputMaker.cpp" />
     <ClCompile Include="8_2_WILDCARD_2.cpp" />
+    <ClCompile Include="8_5_JLIS.cpp" />
     <ClCompile Include="KMPAlgorithm.cpp" />
     <ClCompile Include="6-2PICNIC.cpp" />
     <ClCompile Include="6-2PICNIC_Solution.cpp" />

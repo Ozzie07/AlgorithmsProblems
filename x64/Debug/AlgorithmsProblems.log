@@ -1,2 +1,4 @@
-﻿  8_4_TRIANGLEPATH.cpp
+﻿  2231.cpp
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\2231.cpp(38,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\2231.cpp(40,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Debug\AlgorithmsProblems.exe

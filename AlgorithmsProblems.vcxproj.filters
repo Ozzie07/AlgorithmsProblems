@@ -225,8 +225,23 @@
     <ClCompile Include="8_5_JLIS.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
-    <ClCompile Include="2231.cpp">
+    <ClCompile Include="1436.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8_5_JLIS_solution.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="8_7_PI.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="8_9_QUANTIZE.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="1697.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8_7_PI_2ndTry.cpp">
+      <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

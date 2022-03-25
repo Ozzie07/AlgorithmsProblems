@@ -243,5 +243,14 @@
     <ClCompile Include="8_7_PI_2ndTry.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
+    <ClCompile Include="8_11_TILING_2.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="8_9_QUANTIZE_Solution.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
+    <ClCompile Include="8_11_TRIPATHCNT.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

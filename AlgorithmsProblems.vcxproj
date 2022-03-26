@@ -50,6 +50,7 @@
     <ClCompile Include="6-1_BOGGLE.cpp" />
     <ClCompile Include="7_3QuadTree.cpp" />
     <ClCompile Include="7_4_FENCE.cpp" />
+    <ClCompile Include="8_11_SNAIL.cpp" />
     <ClCompile Include="8_11_TILING_2.cpp" />
     <ClCompile Include="8_11_TRIPATHCNT.cpp" />
     <ClCompile Include="8_1_JUMPGAME.cpp" />

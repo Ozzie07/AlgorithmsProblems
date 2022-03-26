@@ -252,5 +252,8 @@
     <ClCompile Include="8_11_TRIPATHCNT.cpp">
       <Filter>Source Files\JongManBook</Filter>
     </ClCompile>
+    <ClCompile Include="8_11_SNAIL.cpp">
+      <Filter>Source Files\JongManBook</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

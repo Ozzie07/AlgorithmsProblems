@@ -1,9 +1,35 @@
-﻿  6-3BOARDCOVER.cpp
-C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\6-3BOARDCOVER.cpp(116,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\gring\source\repos\AlgorithmsProblems\AlgorithmsProblems\6-3BOARDCOVER.cpp(117,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+﻿  10972.cpp
+  1107.cpp
+  1436.cpp
+  1697.cpp
+  2294.cpp
   6-3BOARDCOVER_Solution.cpp
+  6_2_n_select_m.cpp
+  6_4_CLOCKSYNC.cpp
+  6_7_TSP.cpp
+  6-3BOARDCOVER.cpp
+  6-1_BOGGLE.cpp
+  7_3QuadTree.cpp
+  7_4_FENCE.cpp
+  8_11_SNAIL.cpp
+  8_11_TILING_2.cpp
+  8_11_TRIPATHCNT.cpp
+  8_1_JUMPGAME.cpp
+  8_2_WILDCARD.cpp
+  8_4_LIS.cpp
+  8_5_JLIS_solution.cpp
+  Compiling...
+  8_7_PI.cpp
+  8_7_PI_2ndTry.cpp
+  8_9_QUANTIZE.cpp
+  8_9_QUANTIZE_Solution.cpp
+  7_6FANMEETING.cpp
+  InputMaker.cpp
+  8_2_WILDCARD_2.cpp
+  8_5_JLIS.cpp
+  8_4_TRIANGLEPATH.cpp
   Generating code
   Compiler switch has changed, fall back to full compilation.
-  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   AlgorithmsProblems.vcxproj -> C:\Users\gring\source\repos\AlgorithmsProblems\x64\Release\AlgorithmsProblems.exe

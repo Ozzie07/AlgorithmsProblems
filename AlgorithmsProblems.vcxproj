@@ -53,6 +53,7 @@
     <ClCompile Include="8_11_SNAIL.cpp" />
     <ClCompile Include="8_11_TILING_2.cpp" />
     <ClCompile Include="8_11_TRIPATHCNT.cpp" />
+    <ClCompile Include="8_12_ASYMTILING.cpp" />
     <ClCompile Include="8_1_JUMPGAME.cpp" />
     <ClCompile Include="8_2_WILDCARD.cpp" />
     <ClCompile Include="8_4_LIS.cpp" />
